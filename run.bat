@@ -1,0 +1,1 @@
+python clip_object_tracker.py --source jogo1-parte9.mp4 --detection-engine yolov5
